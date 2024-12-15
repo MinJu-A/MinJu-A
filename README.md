@@ -1,4 +1,4 @@
-## _Welcom to MinJu's Git hub_
+## Kim MinJu  
 
 <!-- 벨로그, 인스타그램, 깃허브, 티스토리 -->
 <a href="https://velog.io/@minju_a" target="_blank"><img src="https://img.shields.io/badge/velog-82c59c?style=flat&logo=velog&logoColor=white"/></a>
