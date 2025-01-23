@@ -27,11 +27,11 @@
 </table>
 
 <!-- 백준 지금은 안풀었으니까... 주석 -->
-<!--
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pinokioandmj)](https://solved.ac/pinokioandmj)
 <img src="http://mazandi.herokuapp.com/api?handle=pinokioandmj&theme=warm"/>
--->
+
 
 <!-- 벨로그, 인스타그램, 깃허브, 티스토리 -->
 <h3 align="center">
