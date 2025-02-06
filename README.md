@@ -26,12 +26,22 @@
   </tbody>
 </table>
 
-<!-- 백준 지금은 안풀었으니까... 주석 -->
+<!-- 백준 -->
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pinokioandmj)](https://solved.ac/pinokioandmj)
 <img src="http://mazandi.herokuapp.com/api?handle=pinokioandmj&theme=warm"/>
 
+<!-- git animals -->
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MinJu-A&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/MinJu-A"
+      width="600"
+      height="300"
+    />
+  </a>
+</div>
 
 <!-- 벨로그, 인스타그램, 깃허브, 티스토리 -->
 <h3 align="center">
